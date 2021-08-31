@@ -13,3 +13,5 @@ Run next commands in php container
 5) php artisan key:generate
 6) php artisan storage:link
 7) php artisan migrate --seed
+8) npm install
+9) npm run dev
